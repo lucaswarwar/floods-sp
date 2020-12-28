@@ -67,3 +67,4 @@ data.table::setDTthreads(percent = 100)
 path_uber <- "D:/data/uber/spo/speeds/"
 path_sptrans <- "D:/data/sptrans/"
 path_inep <- "D:/data/inep/"
+path_gtfs <- "D:/data/gtfs/spo/"
